@@ -1,4 +1,4 @@
-# Saddam-ecommerce
+# bbigbear-ecommerce
 
 Building ecommerce website with React Js + Next Js + TypeScript + Node Js + Express + MongoDB + Material-UI + Tailwind-CSS
 ⚡️ Made with developer experience first ESLint + Prettier + VSCode setup with complete user authentication (a mobile-friendly).
@@ -21,7 +21,7 @@ Building ecommerce website with React Js + Next Js + TypeScript + Node Js + Expr
 
 # Author
 
-### <a href="https://github.com/saddamarbaa">@Saddam Arbaa</a>
+### <a href="https://github.com/bbigbear">@bbigbear</a>
 
 # Technologies
 
@@ -47,11 +47,11 @@ Building ecommerce website with React Js + Next Js + TypeScript + Node Js + Expr
 
 # Demo
 
-### <a href="https://saddam-next-ecommerce.vercel.app/">Live Demo </a>
+### <a href="https://bbigbear-next-ecommerce.vercel.app/">Live Demo </a>
 
-### <a href="https://github.com/saddamarbaa/node-express-rest-api"> Back-End API REPO</a>
+### <a href="https://github.com/bbigbear/node-express-rest-api"> Back-End API REPO</a>
 
-### <a href="https://saddam-rest-api.herokuapp.com">LIVE API Demo</a>
+### <a href="https://bbigbear-rest-api.herokuapp.com">LIVE API Demo</a>
 
 #### Testing Email: testverstion@gmail.com
 
@@ -107,75 +107,75 @@ Contributions are always welcome!
 
 ### Amazon Clone App built with React Js + TypeScript + Redux + Styled Components
 
-### <a href="https://github.com/saddamarbaa/amazon-clone-app-react-typescript"> Github Repo </a>
+### <a href="https://github.com/bbigbear/amazon-clone-app-react-typescript"> Github Repo </a>
 
 ### <a href="https://amazon-clone-murex-six.vercel.app/">LIVE DEMO</a>
 
 ### Airbnb Clone App built with React Js + Next Js + TypeScript + Redux + Tailwind CSS
 
-### <a href="https://github.com/saddamarbaa/airbnb-clone-app-nex-js"> Github Repo </a>
+### <a href="https://github.com/bbigbear/airbnb-clone-app-nex-js"> Github Repo </a>
 
 ### <a href="https://airbnb-clone-app-nex-js.vercel.app/">LIVE DEMO</a>
 
 ### Netflix Clone App built with React Js + TypeScript + Redux + Stripe Checkout/Payments + Vercel Hosting + Firebase
 
-### <a href="https://github.com/saddamarbaa/netflix-clone-app-react-typescript"> Github Repo </a>
+### <a href="https://github.com/bbigbear/netflix-clone-app-react-typescript"> Github Repo </a>
 
 ### <a href="https://netflix-clone-app-react-typescript.vercel.app/">LIVE DEMO</a>
 
 ### LinkedIn Clone App built with React Js + TypeScript + Redux + Styled Components + Material-UI + Firebase Realtime Database + Vercel Hosting
 
-### <a href="https://github.com/saddamarbaa/LinkedIn-clone-app-react-typescript"> Github Repo </a>
+### <a href="https://github.com/bbigbear/LinkedIn-clone-app-react-typescript"> Github Repo </a>
 
 ### <a href="https://linkedin-clone-app-navy.vercel.app/">LIVE DEMO</a>
 
 ### Facebook Clone App built with React Js + Next Js + TypeScript + Redux + Styled Components
 
-### <a href="https://github.com/saddamarbaa/facebook-clone-app-nex-js"> Github Repo </a>
+### <a href="https://github.com/bbigbear/facebook-clone-app-nex-js"> Github Repo </a>
 
 ### <a href="https://facebook-clone-app-nex-js.vercel.app/">LIVE DEMO</a>
 
 ### Instagram Clone App built with React Js + Next Js + TypeScript + Redux + Tailwind CSS + Heroicons
 
-### <a href="https://github.com/saddamarbaa/Instagram-clone-app-nex-js"> Github Repo </a>
+### <a href="https://github.com/bbigbear/Instagram-clone-app-nex-js"> Github Repo </a>
 
 ### <a href="https://instagram-clone-app-nex-js.vercel.app/">LIVE DEMO</a>
 
 # Support
 
-For support, email saddamarbaas@gmail.com.
+For support, email bbigbears@gmail.com.
 
 # Feedback
 
-If you have any feedback, please reach out to me at saddamarbaas@gmail.com
+If you have any feedback, please reach out to me at bbigbears@gmail.com
 
 Twitter
-https://twitter.com/ArbaaSaddam/
+https://twitter.com/bbigbear/
 
 Linkedin.
-https://www.linkedin.com/in/saddamarbaa/
+https://www.linkedin.com/in/bbigbear/
 
 Github
-https://github.com/saddamarbaa
+https://github.com/bbigbear
 
 Instagram
-https://www.instagram.com/saddam.dev/
+https://www.instagram.com/bbigbear.dev/
 
 Facebook
-https://www.facebook.com/saddam.arbaa
+https://www.facebook.com/bbigbear.arbaa
 
 # Run_Locally
 
 Clone the project
 
 ```bash
-https://github.com/saddamarbaa/Ecommerce-website-next.js-typeScript
+https://github.com/bbigbear/Ecommerce-website-next.js
 ```
 
 Go to the project directory
 
 ```bash
-  cd Ecommerce-website-next.js-typeScript
+  cd Ecommerce-website-next.js
 ```
 
 Install dependencies
@@ -217,7 +217,7 @@ Project is: in progress I'm working on it in my free time
 
 # Inspiration
 
-Build By Saddam Arbaa Project inspired by [Amazon] https://www.amazon.com
+Build By bbigbear Arbaa Project inspired by [Amazon] https://www.amazon.com
 
 # Screenshots
 
